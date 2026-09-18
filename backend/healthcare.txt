@@ -1,0 +1,7 @@
+PORT=5000
+SUPABASE_URL=https://zyxckawqdxscwqzuogqg.supabase.co
+SUPABASE_SERVICE_ROLE_KEY=sb_secret_TwVYowivMtnw-zZPbVzQjQ_nQw-LkYK
+SUPABASE_ANON_KEY=sb_publishable_lAxn_XHUkdB5B0miBxS2Yg_oXHmLG9S
+GEMINI_API_KEY=AQ.Ab8RN6IP2cqtaR5vrl3Ej4SS7hGLEcPqISXTTTs-jZSoCuza-A
+STORAGE_BUCKET=medical-documents
+FRONTEND_URL=http://localhost:5173
